@@ -69,6 +69,7 @@ html{
 }
 
 .cpy{
+  margin-left: 8px;
   background: black;
   color: white;
   border: none;
